@@ -17,4 +17,4 @@ One of the issues I encountered was making the design responsive. To overcome th
 
 ## Screenshot
 
-Include a screenshot of your component.
+<img width="585" height="731" alt="Screenshot 2025-07-23 at 5 53 30 PM" src="https://github.com/user-attachments/assets/914fef66-0470-4c3e-b388-bdf8891fc0f9" />
