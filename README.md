@@ -9,10 +9,11 @@ This is a React app built with Vite. It contains a profile component styled with
 - How to use JSX
 - How to style with inline CSS
 - How to create and render functional components
+- Customizing CSS for responsiveness on multuple devices
 
 ## Challenges
 
-Briefly describe any issues you encountered and how you resolved them.
+One of the issues I encountered was making the design responsive. To overcome this, I customized the css style of the main div and the profile card and tested them with multiple screen sizes.
 
 ## Screenshot
 
