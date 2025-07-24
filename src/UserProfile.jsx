@@ -3,7 +3,7 @@ import React from "react";
 const UserProfile = () => {
   const name = "Jane Doe";
   const bio =
-    "A passionate project manager with a resume full of awesome products.";
+    "A passionate project manager dedicated to product design with a resume full of products.";
 
   const containerStyle = {
     display: "flex",
@@ -12,7 +12,7 @@ const UserProfile = () => {
     border: "1px solid #ccc",
     borderRadius: "10px",
     padding: "20px",
-    maxWidth: "300px",
+    width: "300px",
     margin: "20px auto",
     boxShadow: "0 4px 8px rgba(0, 0, 0, 0.1)",
   };
@@ -29,7 +29,7 @@ const UserProfile = () => {
     <div style={containerStyle}>
       <img
         src="https://plus.unsplash.com/premium_photo-1702552108421-57a57c4334a2?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-        alt="Profile"
+        alt="Profile Photo"
         style={imageStyle}
       />
       <h1>{name}</h1>
